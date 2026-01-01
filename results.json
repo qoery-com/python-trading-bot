@@ -1,0 +1,15 @@
+{
+  "strategy": "sma",
+  "symbol": "WETH-USDC",
+  "interval": "15m",
+  "days": 7,
+  "capital": 50000.0,
+  "size": 0.5,
+  "venue": "BINANCE",
+  "params": {
+    "fast_period": 5,
+    "slow_period": 15
+  },
+  "orders": 83,
+  "positions": 42
+}
